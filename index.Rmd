@@ -1,0 +1,19 @@
+---
+title: "SDS Specification"
+date: "`r Sys.Date()`"
+output: rmdformats::downcute
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Rationale
+
+## The specification
+
+### Principles
+
+### Modality-agnostic files
+
+### Modality-specific files
