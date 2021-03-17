@@ -8,16 +8,22 @@ output: rmdformats::downcute
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Rationale
+# Rationale
 
-## The specification
+# The specification
 
-### Principles
+## Principles
 
-### Modality-agnostic files
+## Modality-agnostic files
 
-### Modality-specific files
+## Modality-specific files
 
-### Derivatives
+```
+experimentA/
+  temperature/
+    protein-X_label-Y_res-temperature.enc
+```
+
+## Derivatives
 
 
